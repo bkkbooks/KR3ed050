@@ -1,0 +1,393 @@
+canonical_identifier: bkk:krp/KR3ed050/v1
+canonical_location: https://kanripo.org/bkk/KR3ed050/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 醫方捷徑指南全書
+  identifiers:
+    krp: KR3ed050
+  tags:
+    kr-categories: KR3ed
+    tls-dates: dat04250
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ed050.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - seq: 1
+    filename: KR3ed050_001.yaml
+    hash: sha256:8c0dacd2ca4898a127e9c9694a9c93cd5a3489a6d8767b287b0c2d48a8456cce
+  - seq: 2
+    filename: KR3ed050_002.yaml
+    hash: sha256:e22eef8e03c00ce9c2bc74f5f71f0817e8a704b4508039c5323bf9f616708dc4
+  - seq: 3
+    filename: KR3ed050_003.yaml
+    hash: sha256:4324df70bed0a5ffc77d723cda8cf3106aa7523924cdc30447abd841ca5e1eb1
+  - seq: 4
+    filename: KR3ed050_004.yaml
+    hash: sha256:f47de088b3621c7e01e30dca526a362364f5abbc09ea3d0c960b5f92ecd36e6d
+  markers:
+  - seq: 1
+    role: markers
+    filename: assets/KR3ed050_001.markers.yaml
+    hash: sha256:3fffdfda239f1553065f43253de3849e8be5b3f9fd2c0abd42f9a3e08c0d062d
+  - seq: 2
+    role: markers
+    filename: assets/KR3ed050_002.markers.yaml
+    hash: sha256:37e48028e2e5afdbb6a89a35471a92cf046cd97e446f3e02b7b96c2e8577c902
+  - seq: 3
+    role: markers
+    filename: assets/KR3ed050_003.markers.yaml
+    hash: sha256:c8642dac511eade24372548601bc0a3cb786bc927995d191bc96083c7a48d1ba
+  - seq: 4
+    role: markers
+    filename: assets/KR3ed050_004.markers.yaml
+    hash: sha256:ed77822d5b305b7137a258bbd73b4b441e51bde29dfe7d06a9e596aec7fc8be1
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3ed050_jc_001-d2.h1s1
+    span:
+    - body
+    - 0
+    - 822
+  label: 卷之一醫學入門
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ed050_jc_001-d2d2
+    span:
+    - body
+    - 7
+    - 822
+  label: 本草引序
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed050_jc_002-d3.h1s1
+    span:
+    - body
+    - 0
+    - 5943
+  label: 卷之二用藥發明
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ed050_jc_002-d3d2
+    span:
+    - body
+    - 7
+    - 96
+  label: 藥本五味歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed050_jc_002-d3d3
+    span:
+    - body
+    - 96
+    - 200
+  label: 引經報使藥歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed050_jc_002-d3d4
+    span:
+    - body
+    - 200
+    - 231
+  label: 六陳歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed050_jc_002-d3d5
+    span:
+    - body
+    - 231
+    - 375
+  label: 十八反歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed050_jc_002-d3d6
+    span:
+    - body
+    - 375
+    - 407
+  label: 又捷徑歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed050_jc_002-d3d7
+    span:
+    - body
+    - 407
+    - 509
+  label: 十九畏歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed050_jc_002-d3d8
+    span:
+    - body
+    - 509
+    - 599
+  label: 妊娠服藥禁歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed050_jc_002-d3d9
+    span:
+    - body
+    - 599
+    - 804
+  label: 炮製藥歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed050_jc_002-d3d10
+    span:
+    - body
+    - 804
+    - 964
+  label: 藥象主治五臟法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed050_jc_002-d3d11
+    span:
+    - body
+    - 964
+    - 1078
+  label: 用藥身梢論
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed050_jc_002-d3d12
+    span:
+    - body
+    - 1078
+    - 1452
+  label: 用藥丸散論
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed050_jc_002-d3d13
+    span:
+    - body
+    - 1452
+    - 3948
+  label: 類集古方歌訣
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed050_jc_002-d3d14
+    span:
+    - body
+    - 3948
+    - 5943
+  label: 訂補得效諸方歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed050_jc_003-d4.h1s1
+    span:
+    - body
+    - 0
+    - 6504
+  label: 卷之三總論
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ed050_jc_003-d4d2
+    span:
+    - body
+    - 5
+    - 566
+  label: 用藥入門要訣
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed050_jc_003-d4d3
+    span:
+    - body
+    - 566
+    - 2081
+  label: 傷寒
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed050_jc_003-d4d4
+    span:
+    - body
+    - 2081
+    - 4315
+  label: 對症諸湯散
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed050_jc_003-d4d5
+    span:
+    - body
+    - 4315
+    - 5568
+  label: 傷寒外症加減方次第
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed050_jc_003-d4d6
+    span:
+    - body
+    - 5568
+    - 5821
+  label: 寒
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed050_jc_003-d4d7
+    span:
+    - body
+    - 5821
+    - 6165
+  label: 暑
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed050_jc_003-d4d8
+    span:
+    - body
+    - 6165
+    - 6504
+  label: 濕
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed050_jc_004-d5.h1s1
+    span:
+    - body
+    - 0
+    - 6314
+  label: 卷之四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3ed050_jc_004-d5d2
+    span:
+    - body
+    - 3
+    - 292
+  label: 瘧
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed050_jc_004-d5d3
+    span:
+    - body
+    - 292
+    - 894
+  label: 痢
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed050_jc_004-d5d4
+    span:
+    - body
+    - 894
+    - 1268
+  label: 咳嗽
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed050_jc_004-d5d5
+    span:
+    - body
+    - 1268
+    - 1636
+  label: 霍亂
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed050_jc_004-d5d6
+    span:
+    - body
+    - 1636
+    - 2075
+  label: 水腫
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed050_jc_004-d5d7
+    span:
+    - body
+    - 2075
+    - 2857
+  label: 宿食
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed050_jc_004-d5d8
+    span:
+    - body
+    - 2857
+    - 4002
+  label: 女科
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed050_jc_004-d5d9
+    span:
+    - body
+    - 4002
+    - 5600
+  label: 幼科
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed050_jc_004-d5d10
+    span:
+    - body
+    - 5600
+    - 6314
+  label: 急救良方
+  type: section
+  level: 2
+hash: sha256:c8e1c70e66a7481b74eb3978a1991f49c6539395ac570fe55d68ec15beba570c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
