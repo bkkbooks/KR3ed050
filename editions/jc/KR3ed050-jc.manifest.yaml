@@ -24,8 +24,8 @@ assets:
   markers:
   - {seq: 1, role: markers, filename: assets/KR3ed050_001-jc.markers.yaml, hash: 'sha256:d21918849d1bb610be4d081f4864ddcce2c07bbd57ae8e3c8bc590afd4eda483'}
   - {seq: 2, role: markers, filename: assets/KR3ed050_002-jc.markers.yaml, hash: 'sha256:f3dcc43b0680ab3ce42d5a62ac5551968ca6a1a2c2a95b8c111ad719d12fc6e8'}
-  - {seq: 3, role: markers, filename: assets/KR3ed050_003-jc.markers.yaml, hash: 'sha256:bba20a692fa7bf01185ff39704cd5b8743809e290d07570c80edaafffb7d57da'}
-  - {seq: 4, role: markers, filename: assets/KR3ed050_004-jc.markers.yaml, hash: 'sha256:1ba33e7f3f087e4b402471d089c6c7e5793f34e60b9ce0dde84cf742b8b35f75'}
+  - {seq: 3, role: markers, filename: assets/KR3ed050_003-jc.markers.yaml, hash: 'sha256:c33ce9041fc93fc84622de3bf3e2a2f60ecda56aab46977b659aba28edfd990b'}
+  - {seq: 4, role: markers, filename: assets/KR3ed050_004-jc.markers.yaml, hash: 'sha256:7423eed409d0fc18bae15865d32a00c18f351a7b935d0465eaf21b9b03803ecd'}
 table_of_contents:
 - ref:
     seq: 1
@@ -377,4 +377,4 @@ table_of_contents:
   label: 急救良方
   type: section
   level: 2
-hash: sha256:537d436e0261f17f9580da87f6365d0921d58202b6300917887a3b49f997b923
+hash: sha256:6b3f1926545eed4e0398cc4bf7c9c69bbc323515d6453e7d0f2e6fc14466e1a5

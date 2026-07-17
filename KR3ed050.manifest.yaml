@@ -24,8 +24,8 @@ assets:
   markers:
   - {seq: 1, role: markers, filename: assets/KR3ed050_001.markers.yaml, hash: 'sha256:451cc3bd8fe0bffeb052bf88cf58df474a97252497842a44bc4e478eabf81158'}
   - {seq: 2, role: markers, filename: assets/KR3ed050_002.markers.yaml, hash: 'sha256:22e626c31f702253cd312cb45ff910060787ab621a49ee464ceb67b2d644cb55'}
-  - {seq: 3, role: markers, filename: assets/KR3ed050_003.markers.yaml, hash: 'sha256:6f6b74acb972e720e4796adf2da99d56e6000775960d8a4e46f2ba35fe09ca8f'}
-  - {seq: 4, role: markers, filename: assets/KR3ed050_004.markers.yaml, hash: 'sha256:e8642327e514d3bff0d1a1f20e57f6928cae73619b13988cbf0f63c241ef3ef7'}
+  - {seq: 3, role: markers, filename: assets/KR3ed050_003.markers.yaml, hash: 'sha256:9e17298e2edcef3dbac0b67c3aa0db49c266a3803971f0bbb54bdb54dfe5f8d4'}
+  - {seq: 4, role: markers, filename: assets/KR3ed050_004.markers.yaml, hash: 'sha256:ec7d1ed7ee6746e245cb8148c88c27553f0797340b367b552c3e3a1c7f302a82'}
 table_of_contents:
 - ref:
     seq: 1
@@ -367,7 +367,7 @@ table_of_contents:
   label: 急救良方
   type: section
   level: 2
-hash: sha256:7de5fe9b4b80f28ea797491af26e4b364a6ac8cce6778a611559026ffdb01e04
+hash: sha256:735178bbeffd8d8b715d51b77b6990a949e590f1fc74a37e616170e22edce6ed
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
